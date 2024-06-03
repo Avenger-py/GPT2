@@ -1,4 +1,4 @@
-#Update
+# Update
 Project migrated to: https://github.com/Avenger-py/smol-GPT
 
 # GPT2
